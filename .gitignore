@@ -1,0 +1,19 @@
+# Python & Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+
+# Local runtime state & databases
+.mgi_storage/
+
+# OS & Editor files
+.DS_Store
+.idea/
+.vscode/
